@@ -14,7 +14,6 @@ Then start application by running below commands.
 * Main Page: http://localhost:3000/
 * Add Post: http://localhost:3000/addpost
 * Categories: http://localhost:3000/react, http://localhost:3000/redux, http://localhost:3000/udacity
-* Post detail: http://localhost:3000/post/8xf0y6ziyjabvozdd253nd (You can view this page by clicking detail button at main page)
-  At this page, you can Edit/Delete post, Add/Edit/Delete comment
+* Post detail: http://localhost:3000/post/8xf0y6ziyjabvozdd253nd 
   
 ![Readble](https://i.imgur.com/gwQ6LvX.gif)
