@@ -1,6 +1,6 @@
 # Readable Project
 
-This is a react web project which contains add/update/delete/vote posts and comments.
+This is a react/redux web project which contains add/update/delete/vote posts and comments.
 
 ## Installation
 
